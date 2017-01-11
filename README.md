@@ -20,6 +20,7 @@ As errors in recoil ion position appeared to have drastic results (the square-ma
 
 ### Dependencies
 [![N|Solid](https://d35c7d8c.web.cern.ch/sites/d35c7d8c.web.cern.ch/files/website-banner-allnew-croped_3.png)](https://root.cern.ch)
+
 This script makes use of ROOT, the data analysis framework developed at CERN (see https://root.cern.ch for information on installing ROOT).
 The code was run in the ROOT interpreter. For example, one may run the following (if renaming the .root file from the default of "sim.root" after running Sim):
 ```sh
