@@ -31,9 +31,6 @@ $ root [2] GenHist("50k_events_with_errors.root")
 ```
 ### Acknowledgements
 
-I would like to thank Professor Peter Meyers for serving as my advisor for this project. I would also like to thank my father Edmond Offermann for helping me make the most of ROOT's functionality, and helping me hunt down various bugs during the development of this code.
-
-### Contact
-For any questions, I may be reached at jano@princeton.edu. Thank you.
+I would like to thank Professor Peter Meyers for serving as my advisor for this project. I would also like to thank Edmond Offermann for helping me make the most of ROOT's functionality, and helping me hunt down various bugs during the development of this code.
 
 Jan Tuzlic Offermann
